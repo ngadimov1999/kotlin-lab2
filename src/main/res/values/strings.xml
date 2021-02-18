@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Позор года по версии Vogue</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="dead">Гони бабло</string>
+    <string name="login">Логин</string>
+    <string name="pass">Пароль</string>
+    <string name="next">Войти</string>
+    <string name="previous">Выйти</string>
+</resources>
